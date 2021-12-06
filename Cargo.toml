@@ -1,0 +1,8 @@
+[package]
+name = "eu4-dcolors"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+encoding = "0.2.33"

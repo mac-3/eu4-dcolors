@@ -1,0 +1,11 @@
+/*
+
+# Include git files
+!.gitignore
+
+# Include Cargo files
+!Cargo.lock
+!Cargo.toml
+
+# Include source code
+!src/
